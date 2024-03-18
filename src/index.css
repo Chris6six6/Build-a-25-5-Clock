@@ -1,0 +1,17 @@
+:root {
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #07162e;
+  text-align: center;
+  user-select: none;
+}
+
+body {
+  justify-content: center;
+  display: flex;
+  place-items: center;
+  min-height: 60vh;
+}
+
+h1 {
+  font-size: 3.2em;
+}
